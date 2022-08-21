@@ -1,3 +1,0 @@
-This is chapter 2 page one
-
-we will commit and push again
